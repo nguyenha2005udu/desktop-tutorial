@@ -1,0 +1,12 @@
+:root {
+    --text-color: red;
+}
+h1 {
+    color: var(--text-color);
+}
+h2 {
+    color: var(--text-color);
+}
+/* 1rem = 100% = 16px
+vw: width
+vh - height */
